@@ -2,6 +2,7 @@
 
 Nascimento = "19 de agosto de 2018"
 Pai_do_Junior = "Gustavo Soares de Lima"
+Local_de_nascimento = "https://github.com/gustavodelima/junior"
 
 class Familia:
     def Parente(Membro):
